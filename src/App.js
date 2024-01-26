@@ -59,7 +59,6 @@ function App() {
               className="w-11/12 h-1/2 rounded mx-auto"
             />
             <h4 className="text-2xl font-semibold">Bamburi Tembo Cement</h4>
-            <h6 className="text-xl text-blue-400">Price: 2000</h6>
             <h4>
               To Buy contact:
               <span className=" font-semibold">+254 721 449353</span>
@@ -72,7 +71,6 @@ function App() {
               className="w-4/5 h-1/2 rounded mx-auto"
             />
             <h4 className="text-2xl font-semibold">Tangit PVC Special</h4>
-            <h6 className="text-xl text-blue-400">Price: 390</h6>
             <h4>
               To Buy contact:
               <span className=" font-semibold">+254 721 449353</span>
@@ -87,7 +85,6 @@ function App() {
             <h4 className="text-2xl font-semibold">
               Ruff and Tuff Textured Paint
             </h4>
-            <h6 className="text-xl text-blue-400">Price: 4,450</h6>
             <h4>
               To Buy contact:
               <span className=" font-semibold">+254 721 449353</span>
@@ -100,7 +97,7 @@ function App() {
               className="w-11/12 h-1/2 rounded mx-auto"
             />
             <h4 className="text-2xl font-semibold">Sikabit Membrane (p45)</h4>
-            <h6 className="text-xl text-blue-400">Price: 5980</h6>
+          
             <h4>
               To Buy contact:
               <span className=" font-semibold">+254 721 449353</span>
@@ -113,7 +110,6 @@ function App() {
               className="w-11/12 h-1/2 rounded mx-auto"
             />
             <h4 className="text-2xl font-semibold">Floor Tiles 30 by 30cm</h4>
-            <h6 className="text-xl text-blue-400">Price: 790</h6>
             <h4>
               To Buy contact:
               <span className=" font-semibold">+254 721 449353</span>
@@ -126,7 +122,7 @@ function App() {
               className="w-11/12 h-1/2 rounded mx-auto"
             />
             <h4 className="text-2xl font-semibold">Sikabit Membrane (p45)</h4>
-            <h6 className="text-xl text-blue-400">Price: 5980</h6>
+          
             <h4>
               To Buy contact:
               <span className=" font-semibold">+254 721 449353</span>
@@ -140,7 +136,6 @@ function App() {
               className="w-11/12 h-1/2 rounded mx-auto"
             />
             <h4 className="text-2xl font-semibold">Bamburi Tembo Cement</h4>
-            <h6 className="text-xl text-blue-400">Price: 2000</h6>
             <h4>
               To Buy contact:
               <span className=" font-semibold">+254 721 449353</span>
@@ -153,7 +148,7 @@ function App() {
               className="w-11/12 h-1/2 rounded mx-auto"
             />
             <h4 className="text-2xl font-semibold">Sikabit Membrane (p45)</h4>
-            <h6 className="text-xl text-blue-400">Price: 5980</h6>
+          
             <h4>
               To Buy contact:
               <span className=" font-semibold">+254 721 449353</span>
@@ -166,7 +161,6 @@ function App() {
               className="w-4/5 h-1/2 rounded mx-auto"
             />
             <h4 className="text-2xl font-semibold">Tangit PVC Special</h4>
-            <h6 className="text-xl text-blue-400">Price: 390</h6>
             <h4>
               To Buy contact:
               <span className=" font-semibold">+254 721 449353</span>
@@ -181,7 +175,6 @@ function App() {
             <h4 className="text-2xl font-semibold">
               Ruff and Tuff Textured Paint
             </h4>
-            <h6 className="text-xl text-blue-400">Price: 4,450</h6>
             <h4>
               To Buy contact:
               <span className=" font-semibold">+254 721 449353</span>
@@ -194,7 +187,7 @@ function App() {
               className="w-11/12 h-1/2 rounded mx-auto"
             />
             <h4 className="text-2xl font-semibold">Sikabit Membrane (p45)</h4>
-            <h6 className="text-xl text-blue-400">Price: 5980</h6>
+          
             <h4>
               To Buy contact:
               <span className=" font-semibold">+254 721 449353</span>
@@ -207,7 +200,6 @@ function App() {
               className="w-11/12 h-1/2 rounded mx-auto"
             />
             <h4 className="text-2xl font-semibold">Floor Tiles 30 by 30cm</h4>
-            <h6 className="text-xl text-blue-400">Price: 790</h6>
             <h4>
               To Buy contact:
               <span className=" font-semibold">+254 721 449353</span>
